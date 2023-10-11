@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964211195526",
+    "project_id": "order-c335c",
+    "storage_bucket": "order-c335c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964211195526:android:c8988e7265c0a4e8285b07",
+        "android_client_info": {
+          "package_name": "com.example.order"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKZfLX3Y_YHMqZFj9pg1I8SjWH8wbEdFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
